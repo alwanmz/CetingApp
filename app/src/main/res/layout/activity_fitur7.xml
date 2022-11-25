@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#c49388"
+    android:orientation="vertical"
+    android:weightSum="5"
+    tools:context=".Fitur7Activity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:fontFamily="@font/worksans"
+                android:textAlignment="center"
+                android:text="Referensi Nutrisi\nASI dan MP-ASI"
+                android:textColor="@color/white"
+                android:textSize="34sp"
+                android:gravity="center_horizontal"/>
+        </LinearLayout>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        android:background="@drawable/rounded_menu">
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnRef1"
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:layout_marginStart="40dp"
+            android:layout_marginTop="100dp"
+            android:background="@drawable/rounded"
+            android:drawableTop="@drawable/f71"
+            android:paddingTop="15dp" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnRef2"
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="100dp"
+            android:layout_toEndOf="@id/btnRef1"
+            android:background="@drawable/rounded"
+            android:drawableTop="@drawable/f72"
+            android:paddingTop="15dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center"
+            android:layout_marginStart="35dp"
+            android:layout_marginTop="250dp"
+            android:layout_marginBottom="10dp"
+            android:fontFamily="@font/worksans"
+            android:text="Referensi Video"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center"
+            android:layout_marginStart="210dp"
+            android:layout_marginTop="250dp"
+            android:layout_marginBottom="10dp"
+            android:fontFamily="@font/worksans"
+            android:text="Booklet &amp; Leaflet"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+    </RelativeLayout>
+</LinearLayout>

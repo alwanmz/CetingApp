@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/CetingApp/app/src/main/res/drawable/rounded.xml" value="0.113" />
+        <entry key="..\:/AndroidStudioProjects/CetingApp/app/src/main/res/drawable/rounded_button.xml" value="0.113" />
+        <entry key="..\:/AndroidStudioProjects/CetingApp/app/src/main/res/drawable/rounded_button_white.xml" value="0.113" />
+        <entry key="..\:/AndroidStudioProjects/CetingApp/app/src/main/res/drawable/rounded_menu.xml" value="0.113" />
+        <entry key="..\:/AndroidStudioProjects/CetingApp/app/src/main/res/layout/activity_fitur1.xml" value="0.17074275362318841" />
+        <entry key="..\:/AndroidStudioProjects/CetingApp/app/src/main/res/layout/activity_fitur2.xml" value="0.17074275362318841" />
+        <entry key="..\:/AndroidStudioProjects/CetingApp/app/src/main/res/layout/activity_fitur21.xml" value="0.17074275362318841" />
+        <entry key="..\:/AndroidStudioProjects/CetingApp/app/src/main/res/layout/activity_fitur22.xml" value="0.10182370820668693" />
+        <entry key="..\:/AndroidStudioProjects/CetingApp/app/src/main/res/layout/activity_fitur3.xml" value="0.17074275362318841" />
+        <entry key="..\:/AndroidStudioProjects/CetingApp/app/src/main/res/layout/activity_fitur4.xml" value="0.17074275362318841" />
+        <entry key="..\:/AndroidStudioProjects/CetingApp/app/src/main/res/layout/activity_fitur41.xml" value="0.17074275362318841" />
+        <entry key="..\:/AndroidStudioProjects/CetingApp/app/src/main/res/layout/activity_fitur42.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioProjects/CetingApp/app/src/main/res/layout/activity_fitur5.xml" value="0.18" />
+        <entry key="..\:/AndroidStudioProjects/CetingApp/app/src/main/res/layout/activity_fitur6.xml" value="0.15" />
+        <entry key="..\:/AndroidStudioProjects/CetingApp/app/src/main/res/layout/activity_fitur7.xml" value="0.18" />
+        <entry key="..\:/AndroidStudioProjects/CetingApp/app/src/main/res/layout/activity_fitur71.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/CetingApp/app/src/main/res/layout/activity_fitur72.xml" value="0.16983695652173914" />
+        <entry key="..\:/AndroidStudioProjects/CetingApp/app/src/main/res/layout/activity_fitur73.xml" value="0.16983695652173914" />
+        <entry key="..\:/AndroidStudioProjects/CetingApp/app/src/main/res/layout/activity_fitur8.xml" value="0.18" />
+        <entry key="..\:/AndroidStudioProjects/CetingApp/app/src/main/res/layout/activity_landing.xml" value="0.12" />
+        <entry key="..\:/AndroidStudioProjects/CetingApp/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
